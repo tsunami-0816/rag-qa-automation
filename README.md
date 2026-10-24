@@ -2,9 +2,10 @@
 
 > 基于 pytest + requests + Allure + JMeter 搭建的企业级 RAG 系统测试项目
 
+![CI](https://github.com/tsunami-0816/rag-qa-automation/actions/workflows/ci.yml/badge.svg)
 [![pytest](https://img.shields.io/badge/pytest-8.3-green.svg)](https://docs.pytest.org/)
-[![coverage](https://img.shields.io/badge/use%20cases-25-blue.svg)](#)
-[![status](https://img.shields.io/badge/build-passing-brightgreen.svg)](#)
+[![use cases](https://img.shields.io/badge/use%20cases-25-blue.svg)](#)
+[![coverage](https://img.shields.io/badge/coverage-100%25-brightgreen.svg)](#)
 
 ## 项目简介
 
