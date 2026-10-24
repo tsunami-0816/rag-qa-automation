@@ -1,0 +1,6 @@
+# 不钉死补丁版本，避免跟系统里其他包（kubernetes/langchain）冲突
+pytest>=8.0
+requests>=2.32.5
+PyYAML>=6.0.3
+allure-pytest>=2.13.0
+faker>=30.0

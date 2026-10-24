@@ -1,0 +1,18 @@
+# 环境配置 - 测试时改这里就行
+env: test
+
+test:
+  base_url: http://localhost:8080
+  # 默认管理员账号（和你数据库里 sys_user 表一致）
+  admin_username: admin
+  admin_password: admin123
+  # 普通用户账号（用于权限测试）
+  normal_username: test_user
+  normal_password: test123456
+
+dev:
+  base_url: http://localhost:8080
+  admin_username: admin
+  admin_password: admin123
+  normal_username: test_user
+  normal_password: test123456
